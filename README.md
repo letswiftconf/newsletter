@@ -9,7 +9,7 @@
 
 ## 2020년 편집자
 
-강사룡(Sa-ryong), 김정(godrm), 김윤봉(y8k), 최성훈(rollmind), 허혁(hyukhur)
+강사룡(Sa-ryong), 김정(godrm), 김윤봉(y8k), 최광훈(rollmind), 허혁(hyukhur)
 
 ## 운영 방식
 
