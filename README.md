@@ -4,8 +4,18 @@
 
 ## 뉴스레터 아카이브
 
-제1호 2020년 2월 23일 발행 - [바로가기](https://stib.ee/o202)
-제2호 2020년 3월 8일 발행 - [바로가기](https://stib.ee/um12)
+|호수|발행날짜|바로가기|
+|--|--|--|
+|제1호|2020년 2월 23일|[📰](https://stib.ee/o202)|
+|제2호|2020년 3월 8일|[📰](https://stib.ee/um12)|
+|제3호|2020년 3월 22일|[📰](https://stibee.com/api/v1.0/emails/share/IJHzXGwmCgg4MIcrOXd9ud_oiDTeVg==)|
+|제4호|2020년 4월 5일|[📰](https://stibee.com/api/v1.0/emails/share/9yZfOCB9Pp5zyuF-oHNGx39sDbro5Q==?fbclid=IwAR2Y0zYTSVsJR78N-JM4PH4rxX6fqBGBeacGMkXjmWk6NqsIuS6ajeXCStw)|
+|제5호|2020년 4월 19일|[📰](https://stibee.com/api/v1.0/emails/share/lDcnhD65tcmUBVDjcRy1JY1Ut4wMXA==)|
+|제6호|2020년 5월 3일|[📰](https://stibee.com/api/v1.0/emails/share/f3zE8J8_Z2NwM66l84TzNVz4LbbyYA==)|
+|제7호|2020년 5월 17일|[📰](https://stibee.com/api/v1.0/emails/share/9_dqwFcOIeQq-6dMlitXYpRhJLPVbQ==)|
+|제8호|2020년 5월 31일|[📰](https://stibee.com/api/v1.0/emails/share/QS9Xt0YTjRrzvY1i4Nj3DbTRWyot1Q==)|
+
+
 
 ## 2020년 편집자
 
@@ -13,7 +23,7 @@
 
 ## 운영 방식
 
-1. 매호를 발행하기 전에 수집하기 위해서 이슈를 만듧니다. 
+1. 매호를 발행하기 전에 수집하기 위해서 이슈를 만듭니다. 
 2. 국내외 애플 개발자 또는 iOS, Swift 관련 최신 블로그나 발표자료, 소식을 수집합니다. 
 3. 수집된 자료를 바탕으로 뉴스레터에 포함할 지 여부를 편집자들이 결정합니다. 
 4. 수집한 자료를 몇 가지 카테고리로 나누고, 내용을 요약하거나 코멘트를 붙여서 정리를 합니다.
