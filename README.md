@@ -18,7 +18,6 @@
 |제10호|2020년 6월 28일|[📰](https://stib.ee/TEH2)|
 
 
-
 ## 2020년 편집자
 
 강사룡(Sa-ryong), 김정(godrm), 김윤봉(y8k), 최광훈(rollmind), 허혁(hyukhur)
