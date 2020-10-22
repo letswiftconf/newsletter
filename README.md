@@ -16,6 +16,13 @@
 |제8호|2020년 5월 31일|[📰](https://stibee.com/api/v1.0/emails/share/QS9Xt0YTjRrzvY1i4Nj3DbTRWyot1Q==)|
 |제9호|2020년 6월 14일|[📰](https://stib.ee/q2F2)|
 |제10호|2020년 6월 28일|[📰](https://stib.ee/TEH2)|
+|제11호|2020년 7월 12일|[📰](https://stib.ee/KLJ2)|
+|제12호|2020년 7월 26일|[📰](https://stib.ee/7XL2)|
+|제13호|2020년 8월 09일|[📰](https://stib.ee/qhM2)|
+|제14호|2020년 8월 23일|[📰](https://stib.ee/kmP2)|
+|제15호|2020년 9월 13일|[📰](https://stib.ee/ddT2)|
+|제16호|2020년 9월 27일|[📰](https://stib.ee/sLW2)|
+|제17호|2020년 10월 11일|[📰](https://stib.ee/LHY2)|
 
 
 ## 2020년 편집자
