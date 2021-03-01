@@ -4,30 +4,46 @@
 
 ## 뉴스레터 아카이브
 
+#### 2020년 제1호~제22호 
+
 |호수|발행날짜|바로가기|
 |--|--|--|
-|제1호|2020년 2월 23일|[📰](https://stib.ee/o202)|
-|제2호|2020년 3월 8일|[📰](https://stib.ee/um12)|
-|제3호|2020년 3월 22일|[📰](https://stibee.com/api/v1.0/emails/share/IJHzXGwmCgg4MIcrOXd9ud_oiDTeVg==)|
-|제4호|2020년 4월 5일|[📰](https://stibee.com/api/v1.0/emails/share/9yZfOCB9Pp5zyuF-oHNGx39sDbro5Q==?fbclid=IwAR2Y0zYTSVsJR78N-JM4PH4rxX6fqBGBeacGMkXjmWk6NqsIuS6ajeXCStw)|
-|제5호|2020년 4월 19일|[📰](https://stibee.com/api/v1.0/emails/share/lDcnhD65tcmUBVDjcRy1JY1Ut4wMXA==)|
-|제6호|2020년 5월 3일|[📰](https://stibee.com/api/v1.0/emails/share/f3zE8J8_Z2NwM66l84TzNVz4LbbyYA==)|
-|제7호|2020년 5월 17일|[📰](https://stibee.com/api/v1.0/emails/share/9_dqwFcOIeQq-6dMlitXYpRhJLPVbQ==)|
-|제8호|2020년 5월 31일|[📰](https://stibee.com/api/v1.0/emails/share/QS9Xt0YTjRrzvY1i4Nj3DbTRWyot1Q==)|
-|제9호|2020년 6월 14일|[📰](https://stib.ee/q2F2)|
-|제10호|2020년 6월 28일|[📰](https://stib.ee/TEH2)|
-|제11호|2020년 7월 12일|[📰](https://stib.ee/KLJ2)|
-|제12호|2020년 7월 26일|[📰](https://stib.ee/7XL2)|
-|제13호|2020년 8월 09일|[📰](https://stib.ee/qhM2)|
-|제14호|2020년 8월 23일|[📰](https://stib.ee/kmP2)|
-|제15호|2020년 9월 13일|[📰](https://stib.ee/ddT2)|
-|제16호|2020년 9월 27일|[📰](https://stib.ee/sLW2)|
-|제17호|2020년 10월 11일|[📰](https://stib.ee/LHY2)|
+|제1호|2020년 2월 23일|[링크](https://stib.ee/o202)|
+|제2호|2020년 3월 8일|[링크](https://stib.ee/um12)|
+|제3호|2020년 3월 22일|[링크](https://stibee.com/api/v1.0/emails/share/IJHzXGwmCgg4MIcrOXd9ud_oiDTeVg==)|
+|제4호|2020년 4월 5일|[링크](https://stibee.com/api/v1.0/emails/share/9yZfOCB9Pp5zyuF-oHNGx39sDbro5Q==?fbclid=IwAR2Y0zYTSVsJR78N-JM4PH4rxX6fqBGBeacGMkXjmWk6NqsIuS6ajeXCStw)|
+|제5호|2020년 4월 19일|[링크](https://stibee.com/api/v1.0/emails/share/lDcnhD65tcmUBVDjcRy1JY1Ut4wMXA==)|
+|제6호|2020년 5월 3일|[링크](https://stibee.com/api/v1.0/emails/share/f3zE8J8_Z2NwM66l84TzNVz4LbbyYA==)|
+|제7호|2020년 5월 17일|[링크](https://stibee.com/api/v1.0/emails/share/9_dqwFcOIeQq-6dMlitXYpRhJLPVbQ==)|
+|제8호|2020년 5월 31일|[링크](https://stibee.com/api/v1.0/emails/share/QS9Xt0YTjRrzvY1i4Nj3DbTRWyot1Q==)|
+|제9호|2020년 6월 14일|[링크](https://stib.ee/q2F2)|
+|제10호|2020년 6월 28일|[링크](https://stib.ee/TEH2)|
+|제11호|2020년 7월 12일|[링크](https://stib.ee/KLJ2)|
+|제12호|2020년 7월 26일|[링크](https://stib.ee/7XL2)|
+|제13호|2020년 8월 09일|[링크](https://stib.ee/qhM2)|
+|제14호|2020년 8월 23일|[링크](https://stib.ee/kmP2)|
+|제15호|2020년 9월 13일|[링크](https://stib.ee/ddT2)|
+|제16호|2020년 9월 27일|[링크](https://stib.ee/sLW2)|
+|제17호|2020년 10월 11일|[링크](https://stib.ee/LHY2)|
+|제18호|2020년 10월 25일|[링크](https://stib.ee/XGb2)|
+|제19호|2020년 11월 08일|[링크](https://stib.ee/9Xe2)|
+|제20호|2020년 11월 22일|[링크](https://stib.ee/yjh2)|
+|제21호|2020년 12월 13일|[링크](https://stib.ee/0mn2)|
+|제22호|2020년 12월 27일|[링크](https://stib.ee/awp2)|
+
+#### 2021년 제23호~현재
+
+|호수|발행날짜|바로가기|
+|--|--|--|
+|제23호|2021년 1월 10일|[링크](https://stib.ee/Y1t2)|
+|제24호|2021년 1월 24일|[링크](https://stib.ee/wRw2)|
+|제25호|2021년 2월 14일|[링크](https://stib.ee/eO13)|
+|제26호|2021년 2월 28일|[링크](https://stib.ee/RG53)|
 
 
-## 2020년 편집자
+## 편집자
 
-강사룡(Sa-ryong), 김정(godrm), 김윤봉(y8k), 최광훈(rollmind), 허혁(hyukhur)
+강사룡(Sa-ryong), 김정(godrm), 최광훈(rollmind)
 
 ## 운영 방식
 
