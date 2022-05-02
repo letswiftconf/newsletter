@@ -67,6 +67,11 @@
 |제47호|2022년 1월 09일|[링크](https://stib.ee/Oka4)|
 |제48호|2022년 1월 23일|[링크](https://stib.ee/rGf4)|
 |제49호|2022년 2월 13일|[링크](https://stib.ee/0gl4)|
+|제50호|2022년 2월 27일|[링크](https://event.stibee.com/v2/click/NTg2NTQvODg5NjY2LzQzMy8/aHR0cHM6Ly9zdGliLmVlL2tvcTQ)|
+|제51호|2022년 3월 13일|[링크](https://event.stibee.com/v2/click/NTg2NTQvOTA3NDA1LzQzMy8/aHR0cHM6Ly9zdGliLmVlL0xUdjQ)|
+|제52호|2022년 3월 27일|[링크](https://event.stibee.com/v2/click/NTg2NTQvOTI3Mzc2LzQzMy8/aHR0cHM6Ly9zdGliLmVlL0JpMDU)|
+|제53호|2022년 4월 10일|[링크](https://event.stibee.com/v2/click/NTg2NTQvOTQ3Njk5LzQzMy8/aHR0cHM6Ly9zdGliLmVlLzMzNjU)|
+|제54호|2022년 4월 24일|[링크](https://event.stibee.com/v2/click/NTg2NTQvOTY3OTE5LzQzMy8/aHR0cHM6Ly9zdGliLmVlL1VMQjU)|
 
 ## 편집자
 
