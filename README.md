@@ -74,6 +74,7 @@
 |제54호|2022년 4월 24일|[링크](https://event.stibee.com/v2/click/NTg2NTQvOTY3OTE5LzQzMy8/aHR0cHM6Ly9zdGliLmVlL1VMQjU)|
 |제55호|2022년 5월 08일|[링크](https://stibee.com/api/v1.0/emails/share/QoEokQev05672MzzpiFoD-FctsgYPw==)|
 |제56호|2022년 5월 22일|[링크](https://stibee.com/api/v1.0/emails/share/Jx8rC3t8WrM8QAGYgmy-PgSvTyNlO6Q=)|
+|제57호|2022년 6월 15일|[링크](https://stibee.com/api/v1.0/emails/share/Or8cEaBrL_3KgmAGIHjJ56VBroWZH-U=)|
 
 ## 편집자
 
