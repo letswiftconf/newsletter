@@ -75,6 +75,9 @@
 |제55호|2022년 5월 08일|[링크](https://stibee.com/api/v1.0/emails/share/QoEokQev05672MzzpiFoD-FctsgYPw==)|
 |제56호|2022년 5월 22일|[링크](https://stibee.com/api/v1.0/emails/share/Jx8rC3t8WrM8QAGYgmy-PgSvTyNlO6Q=)|
 |제57호|2022년 6월 15일|[링크](https://stibee.com/api/v1.0/emails/share/Or8cEaBrL_3KgmAGIHjJ56VBroWZH-U=)|
+|제58호|2022년 6월 26일|[링크](https://stibee.com/api/v1.0/emails/share/KYyDgkuDvRMDMuXt1X9_xk_58f09QAg=)|
+|제59호|2022년 7월 10일|[링크](https://stibee.com/api/v1.0/emails/share/gcy_yS1ABfuOY_RHeZiGmcszNQ46v0c=)|
+|제60호|2022년 7월 24일|[링크](https://stibee.com/api/v1.0/emails/share/3WcHpq6du11W52TU9QNvcDUogxMsmac=)|
 
 ## 편집자
 
