@@ -83,8 +83,8 @@
 |제63호|2022년 9월 12일|[링크](https://stibee.com/api/v1.0/emails/share/r1mcmyRy8E_N0W3_iwGDbWZnXTCQpUo=)|
 |제64호|2022년 9월 25일|[링크](https://stibee.com/api/v1.0/emails/share/exJP-auY89TKkk3Gc48vPSFEKt9g95Q=)|
 |제65호|2022년 10월 09일|[링크](https://stibee.com/api/v1.0/emails/share/EK1VsIs96Jh8caAYKnXxnAi328qjIQ0=)|
-|제66호|2022년 10월 23일|[링크](https://stibee.com/api/v1.0/emails/share/EK1VsIs96Jh8caAYKnXxnAi328qjIQ0=)|
-|제67호|2022년 11월 13일|[링크](https://stibee.com/api/v1.0/emails/share/EK1VsIs96Jh8caAYKnXxnAi328qjIQ0=)|
+|제66호|2022년 10월 23일|[링크](https://stibee.com/api/v1.0/emails/share/aOV4AynK69mLZYbfeIy2zdbLcIay3EI=)|
+|제67호|2022년 11월 13일|[링크](https://stibee.com/api/v1.0/emails/share/W283b-AB4joYuL7JNtlPJQBukr27zQ8=)|
 |제68호|2022년 11월 27일|[링크](https://stibee.com/api/v1.0/emails/share/EoqlCxT5I6pDUUqj3cu8svcg55_A4ls=)|
 
 
