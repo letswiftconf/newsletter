@@ -78,6 +78,15 @@
 |제58호|2022년 6월 26일|[링크](https://stibee.com/api/v1.0/emails/share/KYyDgkuDvRMDMuXt1X9_xk_58f09QAg=)|
 |제59호|2022년 7월 10일|[링크](https://stibee.com/api/v1.0/emails/share/gcy_yS1ABfuOY_RHeZiGmcszNQ46v0c=)|
 |제60호|2022년 7월 24일|[링크](https://stibee.com/api/v1.0/emails/share/3WcHpq6du11W52TU9QNvcDUogxMsmac=)|
+|제61호|2022년 8월 14일|[링크](https://stibee.com/api/v1.0/emails/share/gSYXADQ5RICHEj_12sIO_hHU_RhSclk=)|
+|제62호|2022년 8월 28일|[링크](https://stibee.com/api/v1.0/emails/share/VaczsTJWLIapzajSxTKtaamDxbuNbwc=)|
+|제63호|2022년 9월 12일|[링크](https://stibee.com/api/v1.0/emails/share/r1mcmyRy8E_N0W3_iwGDbWZnXTCQpUo=)|
+|제64호|2022년 9월 25일|[링크](https://stibee.com/api/v1.0/emails/share/exJP-auY89TKkk3Gc48vPSFEKt9g95Q=)|
+|제65호|2022년 10월 09일|[링크](https://stibee.com/api/v1.0/emails/share/EK1VsIs96Jh8caAYKnXxnAi328qjIQ0=)|
+|제66호|2022년 10월 23일|[링크](https://stibee.com/api/v1.0/emails/share/EK1VsIs96Jh8caAYKnXxnAi328qjIQ0=)|
+|제67호|2022년 11월 13일|[링크](https://stibee.com/api/v1.0/emails/share/EK1VsIs96Jh8caAYKnXxnAi328qjIQ0=)|
+|제68호|2022년 11월 27일|[링크](https://stibee.com/api/v1.0/emails/share/EoqlCxT5I6pDUUqj3cu8svcg55_A4ls=)|
+
 
 ## 편집자
 
