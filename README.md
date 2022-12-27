@@ -90,7 +90,9 @@
 |제70호|2022년 12월 27일|[링크](https://stibee.com/api/v1.0/emails/share/dHR-pgjRaTx2sxRIZYLYlyNIg2mirRA=)|
 
 #### 2023년 제71호~
-|제70호|2023년 1월 8일|<br>|
+|호수|발행날짜|바로가기|
+|--|--|--|
+|제71호|2023년 1월 8일|<br>|
 
 
 ## 편집자
