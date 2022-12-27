@@ -60,7 +60,7 @@
 |제45호|2021년 12월 12일|[링크](https://stib.ee/NqR4)|
 |제46호|2021년 12월 26일|[링크](https://stib.ee/EHW4)|
 
-#### 2022년 제47호~현재
+#### 2022년 제47호~70호
 
 |호수|발행날짜|바로가기|
 |--|--|--|
@@ -86,6 +86,11 @@
 |제66호|2022년 10월 23일|[링크](https://stibee.com/api/v1.0/emails/share/aOV4AynK69mLZYbfeIy2zdbLcIay3EI=)|
 |제67호|2022년 11월 13일|[링크](https://stibee.com/api/v1.0/emails/share/W283b-AB4joYuL7JNtlPJQBukr27zQ8=)|
 |제68호|2022년 11월 27일|[링크](https://stibee.com/api/v1.0/emails/share/EoqlCxT5I6pDUUqj3cu8svcg55_A4ls=)|
+|제69호|2022년 12월 11일|[링크](https://stibee.com/api/v1.0/emails/share/7DSXqm-Cts6G7k-yO15j_uLFeIR1WF4=)|
+|제70호|2022년 12월 27일|[링크](https://stibee.com/api/v1.0/emails/share/dHR-pgjRaTx2sxRIZYLYlyNIg2mirRA=)|
+
+#### 2023년 제71호~
+|제70호|2023년 1월 8일|<br>|
 
 
 ## 편집자
