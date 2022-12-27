@@ -6,6 +6,10 @@
 
 #### 2020년 제1호~제22호 
 
+<details>
+<summary>목록 펼쳐보기</summary>
+<div>
+
 |호수|발행날짜|바로가기|
 |--|--|--|
 |제1호|2020년 2월 23일|[링크](https://stib.ee/o202)|
@@ -30,8 +34,14 @@
 |제20호|2020년 11월 22일|[링크](https://stib.ee/yjh2)|
 |제21호|2020년 12월 13일|[링크](https://stib.ee/0mn2)|
 |제22호|2020년 12월 27일|[링크](https://stib.ee/awp2)|
+</div>
+</details>
 
 #### 2021년 제23호~제46호
+
+<details>
+<summary>목록 펼쳐보기</summary>
+<div>
 
 |호수|발행날짜|바로가기|
 |--|--|--|
@@ -60,7 +70,14 @@
 |제45호|2021년 12월 12일|[링크](https://stib.ee/NqR4)|
 |제46호|2021년 12월 26일|[링크](https://stib.ee/EHW4)|
 
+</div>
+</details>
+
 #### 2022년 제47호~70호
+
+<details>
+<summary>목록 펼쳐보기</summary>
+<div>
 
 |호수|발행날짜|바로가기|
 |--|--|--|
@@ -88,6 +105,9 @@
 |제68호|2022년 11월 27일|[링크](https://stibee.com/api/v1.0/emails/share/EoqlCxT5I6pDUUqj3cu8svcg55_A4ls=)|
 |제69호|2022년 12월 11일|[링크](https://stibee.com/api/v1.0/emails/share/7DSXqm-Cts6G7k-yO15j_uLFeIR1WF4=)|
 |제70호|2022년 12월 27일|[링크](https://stibee.com/api/v1.0/emails/share/dHR-pgjRaTx2sxRIZYLYlyNIg2mirRA=)|
+
+</div>
+</details>
 
 #### 2023년 제71호~
 |호수|발행날짜|바로가기|
