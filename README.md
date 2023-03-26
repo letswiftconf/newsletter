@@ -112,7 +112,11 @@
 #### 2023년 제71호~
 |호수|발행날짜|바로가기|
 |--|--|--|
-|제71호|2023년 1월 8일|<br>|
+|제71호|2023년 1월 08일|[링크](https://stibee.com/api/v1.0/emails/share/jkNShiJQ8hSS6VNFDkwvLls0v7Rdvps=)|
+|제72호|2023년 1월 24일|[링크](https://stibee.com/api/v1.0/emails/share/9AiHX0M9sZvEK92zPGavI_-MbmvKA-k=)|
+|제73호|2023년 2월 12일|[링크](https://stibee.com/api/v1.0/emails/share/RN-a5Kywsfwd0VC4AnMmXQBNXohdVE8=)|
+|제74호|2023년 2월 26일|[링크](https://stibee.com/api/v1.0/emails/share/7RDvzCXjN5jbiPCjUjJd4Xe68aNBM38=)|
+|제75호|2023년 3월 12일|[링크](https://stibee.com/api/v1.0/emails/share/hSckmYQEss_t4TF6dW0TpnR8DQLo7xs=)|
 
 
 ## 편집자
