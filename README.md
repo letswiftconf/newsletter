@@ -117,6 +117,15 @@
 |제73호|2023년 2월 12일|[링크](https://stibee.com/api/v1.0/emails/share/RN-a5Kywsfwd0VC4AnMmXQBNXohdVE8=)|
 |제74호|2023년 2월 26일|[링크](https://stibee.com/api/v1.0/emails/share/7RDvzCXjN5jbiPCjUjJd4Xe68aNBM38=)|
 |제75호|2023년 3월 12일|[링크](https://stibee.com/api/v1.0/emails/share/hSckmYQEss_t4TF6dW0TpnR8DQLo7xs=)|
+|제76호|2023년 3월 26일|[링크](https://stibee.com/api/v1.0/emails/share/fCGh0CBhNxY8X9eOxMeRd75kBCTXHIs=)|
+|제77호|2023년 4월 9일|[링크](https://stibee.com/api/v1.0/emails/share/I8M3Up3o_VNTmPLudjFRmifUnARAjq0=)|
+|제78호|2023년 4월 23일|[링크](https://stibee.com/api/v1.0/emails/share/DnBC2Rw-XnEfSCysBnNi1AiWQ5mMZvI=)|
+|제79호|2023년 5월 14일|[링크](https://stibee.com/api/v1.0/emails/share/t68ai7i8O4BBhKikreQlGi8nz6JeAh4=)|
+|제80호|2023년 5월 28일|[링크](https://stibee.com/api/v1.0/emails/share/bGVX_L3h6C_gO06u0_xP4aZRD8rzsus=)|
+|특집호외|2023년 6월 11일|[링크](https://stibee.com/api/v1.0/emails/share/CJE7tsIG2rb57Wty6mGlhUe1cqlvDeI=)|
+|제81호|2023년 6월 18일|[링크](https://stibee.com/api/v1.0/emails/share/CjVxM7wuUMVEyEAsf_htlNSlWdHpK0k=)|
+|제82호|2023년 7월 9일|[링크](https://stibee.com/api/v1.0/emails/share/SYJaok0-DDqmGEgQAvUsa5zml-yy6u4=)|
+|제83호|2023년 7월 23일|[링크](https://stibee.com/api/v1.0/emails/share/hYCCpPK6A84gsuTaLCJgM48ypLgXPpY)|
 
 
 ## 편집자
