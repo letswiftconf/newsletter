@@ -1,6 +1,24 @@
 {
     "title": "Let'Swift Newsletter",
     "updatedAt": "2023-11-26T21:00:00Z",
+    "categories": [
+        "APPLE",
+        "General",
+        "Hardware",
+        "Swift",
+        "Architecture",
+        "UIKit",
+        "SwiftUI",
+        "AppKit",
+        "Frameworks",
+        "visionOS",
+        "ServerSide",
+        "Accessibility",
+        "DeveloperTools",
+        "Testing",
+        "Opensources",
+        "Design"
+    ],
     "issues": [
         "https://github.com/letswiftconf/newsletter/blob/master/json/news-47.json",
         "https://github.com/letswiftconf/newsletter/blob/master/json/news-48.json",
