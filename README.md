@@ -126,6 +126,14 @@
 |제81호|2023년 6월 18일|[링크](https://stibee.com/api/v1.0/emails/share/CjVxM7wuUMVEyEAsf_htlNSlWdHpK0k=)|
 |제82호|2023년 7월 9일|[링크](https://stibee.com/api/v1.0/emails/share/SYJaok0-DDqmGEgQAvUsa5zml-yy6u4=)|
 |제83호|2023년 7월 23일|[링크](https://stibee.com/api/v1.0/emails/share/hYCCpPK6A84gsuTaLCJgM48ypLgXPpY)|
+|제84호|2023년 8월 13일|[링크](https://stibee.com/api/v1.0/emails/share/QjguKyJoZqpB4rAfmr0YTYUSNMZP4AA)|
+|제85호|2023년 8월 27일|[링크](https://stibee.com/api/v1.0/emails/share/6G3CUGs8lhbuBzKD7NRYASVugWYRzdo)|
+|제86호|2023년 9월 10일|[링크](https://stibee.com/api/v1.0/emails/share/i17nGylDFuavq04ueKTJKiEfm9PWOqg)|
+|제87호|2023년 9월 24일|[링크](https://stibee.com/api/v1.0/emails/share/TbJkr0T76RjJIZZTTBB9t8D32B9m7Zs)|
+|제88호|2023년 10월 8일|[링크](https://stibee.com/api/v1.0/emails/share/h7XADL8wHZ8H_ge0jxPM00wajnMvuxY)|
+|제89호|2023년 10월 22일|[링크](https://stibee.com/api/v1.0/emails/share/KQ2EsRsmqx2shtUAQAMBlgsntJVMEHU)|
+|제90호|2023년 11월 12일|[링크](https://stibee.com/api/v1.0/emails/share/krzvXdEKhVlIa5w_dogDAmVnN6u5kEU)|
+|제91호|2023년 11월 26일|[링크](https://stibee.com/api/v1.0/emails/share/tl5bN4SuxCNvmzMDKogXVTZ8n98InIU)|
 
 
 ## 편집자
