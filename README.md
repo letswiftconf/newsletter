@@ -134,6 +134,7 @@
 |제89호|2023년 10월 22일|[링크](https://stibee.com/api/v1.0/emails/share/KQ2EsRsmqx2shtUAQAMBlgsntJVMEHU)|
 |제90호|2023년 11월 12일|[링크](https://stibee.com/api/v1.0/emails/share/krzvXdEKhVlIa5w_dogDAmVnN6u5kEU)|
 |제91호|2023년 11월 26일|[링크](https://stibee.com/api/v1.0/emails/share/tl5bN4SuxCNvmzMDKogXVTZ8n98InIU)|
+|제92호|2023년 12월 10일|[링크](https://stibee.com/api/v1.0/emails/share/5ya0iEbe76StLXw7L9lBhYN6JC--Gq0)|
 
 
 ## 편집자
