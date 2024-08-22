@@ -109,7 +109,12 @@
 </div>
 </details>
 
-#### 2023년 제71호~
+#### 2023년 제71호~93호
+
+<details>
+<summary>목록 펼쳐보기</summary>
+<div>
+
 |호수|발행날짜|바로가기|
 |--|--|--|
 |제71호|2023년 1월 08일|[링크](https://stibee.com/api/v1.0/emails/share/jkNShiJQ8hSS6VNFDkwvLls0v7Rdvps=)|
@@ -135,7 +140,31 @@
 |제90호|2023년 11월 12일|[링크](https://stibee.com/api/v1.0/emails/share/krzvXdEKhVlIa5w_dogDAmVnN6u5kEU)|
 |제91호|2023년 11월 26일|[링크](https://stibee.com/api/v1.0/emails/share/tl5bN4SuxCNvmzMDKogXVTZ8n98InIU)|
 |제92호|2023년 12월 10일|[링크](https://stibee.com/api/v1.0/emails/share/5ya0iEbe76StLXw7L9lBhYN6JC--Gq0)|
+|제93호|2023년 12월 24일|[링크](https://stibee.com/api/v1.0/emails/share/dq1zTQ4jeIb2QjP6aw2ZIWizIKZc3F8)|
 
+</div>
+</details>
+
+
+#### 2024년 제94호~
+|호수|발행날짜|바로가기|
+|--|--|--|
+|제94호|2024년 1월 14일|[링크](https://stibee.com/api/v1.0/emails/share/LnBTYcDrRyIoBNTYfFAhooI_9xpLMKI)|
+|제95호|2024년 1월 28일|[링크](https://stibee.com/api/v1.0/emails/share/PkzDVPtQAlwMUqLHUAcwZBIJUHShirg)|
+|제96호|2024년 2월 11일|[링크](https://stibee.com/api/v1.0/emails/share/pMzM9Y3b-nCK0JBRE_bGVX1C824BtLA)|
+|제97호|2023년 2월 25일|[링크](https://stibee.com/api/v1.0/emails/share/jXhaOcjABOhqhJbxRHut2S66bDDbToI)|
+|제98호|2024년 3월 10일|[링크](https://stibee.com/api/v1.0/emails/share/lVyc3RF4xcOEfqkod67X38LnTaOJ5Qo)|
+|제99호|2024년 3월 24일|[링크](https://stibee.com/api/v1.0/emails/share/P7YofI2dbxLQXfUdz4PXd_cCfgfXsfk)|
+|제100호|2024년 4월 14일|[링크](https://stibee.com/api/v1.0/emails/share/QfW-ZF9S-rPHTt1rXu-sbJdcJ1SCVZg)|
+|제101호|2024년 4월 28일|[링크](https://stibee.com/api/v1.0/emails/share/rPSXwpa878AE72aohk3nEUSgK9e0sno)|
+|제102호|2024년 5월 12일|[링크](https://stibee.com/api/v1.0/emails/share/iH-SqRwB9XZStyyCO3qFYq3QMEwJGJ4)|
+|제103호|2024년 5월 26일|[링크](https://stibee.com/api/v1.0/emails/share/KG74OnSYYOv_-kdicyOYVmmmOEW98d4)|
+|제104호|2024년 6월 11일|[링크](https://stibee.com/api/v1.0/emails/share/2k6GpiYfTS78UIhi5di3ceb19kyuDsY)|
+|특집호외|2024년 6월 16일|[링크](https://stibee.com/api/v1.0/emails/share/6qJ6CmEQa00eNUEO6tVCHf_OBmbHgyQ)|
+|제105호|2024년 6월 23일|[링크](https://stibee.com/api/v1.0/emails/share/aGWpFXTxbEpCY4eZBZ4yVzh2pJMbMwo)|
+|제106호|2024년 7월 14일|[링크](https://stibee.com/api/v1.0/emails/share/0CvfljbrjGOzDz3t6s71jjwU2Rv31BM)|
+|제107호|2024년 7월 28일|[링크](https://stibee.com/api/v1.0/emails/share/LD0p_zeDkpsf43yFELEzW4VRrpIMSyw)|
+|제108호|2024년 8월 11일|[링크](https://stibee.com/api/v1.0/emails/share/nS0tUa6Aj3TvQRQQcM8IwwCcRo3AQW8)|
 
 ## 편집자
 
